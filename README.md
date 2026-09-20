@@ -1184,7 +1184,7 @@ AFTER:
 see it in motion-> https://youtu.be/D9ocVzGJfI8
 
 ---
-3D enviroment model TEST  
+3D environment model TEST  
 [![screenshot](https://i.imgur.com/Ob6xlwIh.jpg)](https://camo.githubusercontent.com/e7fca67ac99b4ce69cb7d00afd7a4e313ae796f26fd173eb92441bf7db6a82c2/68747470733a2f2f692e696d6775722e636f6d2f4f6236786c77492e6a7067?raw=1)
 [![screenshot](https://i.imgur.com/1GgqIZxh.jpg)](https://camo.githubusercontent.com/18cb00ae32e5a37043114812bfbd2e591ab12b6a27ac64e8ee9fa969bcad91c7/68747470733a2f2f692e696d6775722e636f6d2f31476771495a782e6a7067?raw=1)
 see it in motion-> https://youtu.be/GcW0pNo-zus
